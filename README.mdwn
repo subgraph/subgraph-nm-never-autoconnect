@@ -1,0 +1,3 @@
+# Subgraph Network Manager Never Auto Connect
+
+This package installs a network-manager dispatcher hook that sets every connection to never auto connect thus preventing accidental reconnections.

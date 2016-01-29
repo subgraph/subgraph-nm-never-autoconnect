@@ -1,0 +1,15 @@
+Source: subgraph-nm-never-autoconnect
+Section: net
+Priority: extra
+Maintainer: Subgraph <info@subgraph.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/subgraphpkgs/subgraph-nm-never-autoconnect
+Vcs-Git: https://github.com/subgraphpkgs/subgraph-nm-never-autoconnect.git
+
+Package: subgraph-nm-never-autoconnect
+Architecture: all
+Depends: network-manager, ${misc:Depends}
+Description: Subgraph NetworkManager Never Auto Connect
+ Subgraph NetworkManager Never Auto Connect prevents all connections from
+ auto connecting.

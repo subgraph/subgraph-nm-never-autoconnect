@@ -1,0 +1,5 @@
+#!/bin/bash
+
+if [ -n "${CONNECTION_UUID}" ]; then
+	/usr/bin/nmcli connection modify "${CONNECTION_UUID}" connection.autoconnect no
+fi
