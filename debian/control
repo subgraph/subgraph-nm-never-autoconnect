@@ -4,8 +4,8 @@ Priority: extra
 Maintainer: Subgraph <info@subgraph.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
-Homepage: https://github.com/subgraphpkgs/subgraph-nm-never-autoconnect
-Vcs-Git: https://github.com/subgraphpkgs/subgraph-nm-never-autoconnect.git
+Homepage: https://github.com/subgraph/subgraph-nm-never-autoconnect
+Vcs-Git: https://github.com/subgraph/subgraph-nm-never-autoconnect.git
 
 Package: subgraph-nm-never-autoconnect
 Architecture: all
