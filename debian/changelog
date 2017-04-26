@@ -1,0 +1,6 @@
+subgraph-nm-never-autoconnect (0.0.1) testing; urgency=medium
+
+  * Initial version
+
+ -- Subgraph <info@subgraph.com>  Fri, 29 Jan 2016 00:00:00 +0000
+

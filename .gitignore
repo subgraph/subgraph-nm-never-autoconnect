@@ -1,0 +1,5 @@
+*.swp
+debian/subgraph-nm-never-autoconnect
+*.debhelper.log
+debian/files
+
