@@ -1,1 +1,0 @@
-src/etc/NetworkManager/dispatcher.d/pre-up.d/00never-auto-connect /etc/NetworkManager/dispatcher.d/pre-up.d/00never-auto-connect
